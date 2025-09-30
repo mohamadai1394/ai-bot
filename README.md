@@ -1,1 +1,1 @@
-# imagica
+https://www.imagica.ai/

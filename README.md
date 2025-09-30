@@ -1,1 +1,1 @@
-# ai-bot
+# imagica
